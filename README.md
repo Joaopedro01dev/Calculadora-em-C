@@ -83,3 +83,21 @@ Sáida:
 Resultado: 5.00 + 3.00 = 8.00
 Deseja realizar outra operacao? (s/n):
 ```
+## Estrutura do Projeto
+A estrutura do projeto está organizada da seguinte forma:
+```bash
+Calculadora-em-C/
+│
+├── main.c
+├── README.md
+├── LICENSE
+│
+└── assets
+      └── demo.gif
+```
+## Licença
+Este projeto está licenciado sob a **Licença MIT**.
+
+Isso significa que qualquer pessoa pode usar, copiar, modificar e distribuir este software, desde que mantenha os avisos de direitos autorais.
+
+Para mais detalhes, consulte o arquivo [LICENSE](LICENSE).
